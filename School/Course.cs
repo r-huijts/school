@@ -13,6 +13,7 @@ namespace School
 
         public Course()
         {
+
         }
 
         public void AddStudent(Student student)
