@@ -18,7 +18,7 @@ namespace School
 
         public void AddStudent(Student student)
         {
-            Students.Add(student);
+            Students.Add(student)
         }
     }
 }
